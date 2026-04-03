@@ -1,6 +1,6 @@
 # PulseTier
 
-Professional-grade productivity tools that process files entirely in your browser. Zero data collection. Maximum privacy.
+Professional grade productivity tools that process files entirely in your browser. Zero data collection. Maximum privacy.
 
 ## Overview
 
